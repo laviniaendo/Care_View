@@ -212,7 +212,7 @@ const variants: {
         />
       </IconWrapper>
     ),
-    title: "Dados",
+    title: "Funcionamento de Máquinas",
     data: [
       {
         index: "1",
